@@ -1,0 +1,7 @@
+.App {
+  text-align: center;
+  background-image: url("./images/dustbin_background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
