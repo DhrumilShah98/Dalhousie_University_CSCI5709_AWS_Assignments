@@ -1,5 +1,5 @@
-# Dalhousie University | CSCI5709 | AWS (Advanced Web Services) | All Assignments
-All assignments are completed in class CSCI5709 (Advanced Web Services) of MACS at Dalhousie University. This repository contains a total of 3 assignments. CSCI5709 AWS Dalhousie University.<br/>
+# Dalhousie University | CSCI 5709 | AWS (Advanced Web Services) | All Assignments
+All assignments are completed in class CSCI 5709 (Advanced Web Services) of MACS at Dalhousie University. This repository contains a total of 3 assignments. CSCI 5709 AWS Dalhousie University.<br/>
 Final Letter Grade Received - **A+**
 
 ## Authors
@@ -11,8 +11,8 @@ Final Letter Grade Received - **A+**
 * Learning Outcomes: 
 	* Judge and apply UI and UX design techniques discussed in class (e.g., use cases, task flow diagrams), while considering the usability of the device used to access your website.
 	* Assess the suitability of Front-End APIs and Frameworks for the purpose of developing a high-fidelity prototype application, given a set of proposed guidelines (e.g., wireframes, devices, expected functionality).
-	* Become familiar with your group’s Front-End Framework(s) of choice for the purpose of developing a semi-functioning high-fidelity prototype, given a set of proposed guidelines.
-	* Learn to collaborate with group members to define your project’s purpose, potential features, user personas, scenarios and sitemaps in order to compile a set of potential guidelines and requirements for your group project.
+	* Become familiar with your group's Front-End Framework(s) of choice for the purpose of developing a semi-functioning high-fidelity prototype, given a set of proposed guidelines.
+	* Learn to collaborate with group members to define your project's purpose, potential features, user personas, scenarios and sitemaps in order to compile a set of potential guidelines and requirements for your group project.
 * Grade: 
 	* Individual Deliverable: 90%
 	* Group Deliverable: 86%
